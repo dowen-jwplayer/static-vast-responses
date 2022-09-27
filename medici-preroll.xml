@@ -9,8 +9,8 @@
 					<Linear>
 						<Duration>00:00:10</Duration>
 						<MediaFiles>
-							<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="5000" scalable="true" maintainAspectRatio="true">
-								https://s3.amazonaws.com/fabian.success.jwplayer.com/ads/jw-pre-10s.mp4
+							<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="2000" scalable="true" maintainAspectRatio="true">
+								https://raw.githubusercontent.com/dowen-jwplayer/static-vast-responses/main/9378-hYj647pbJk3GLWtXB2Kf.mp4
 							</MediaFile>							
 						</MediaFiles>
 					 </Linear>
