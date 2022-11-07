@@ -10,7 +10,7 @@
 						<Duration>00:00:10</Duration>
 						<MediaFiles>
 							<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="2000" scalable="true" maintainAspectRatio="true">
-								https://raw.githubusercontent.com/dowen-jwplayer/static-vast-responses/main/9378-hYj647pbJk3GLWtXB2Kf.mp4
+								https://github.com/dowen-jwplayer/static-vast-responses/raw/main/medici/medici-preroll-bumper.mp4
 							</MediaFile>							
 						</MediaFiles>
 					 </Linear>
