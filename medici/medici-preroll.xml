@@ -10,7 +10,7 @@
 						<Duration>00:00:10</Duration>
 						<MediaFiles>
 							<MediaFile delivery="progressive" width="1920" height="1080" type="application/x-mpegURL" bitrate="2000" scalable="true" maintainAspectRatio="true">
-								https://sdn-global-streaming-cache-3qsdn-medici.akamaized.net/66103/files/23/03/10/7483383/66103-Fwq9C8PzRQ4rkZj.ism/manifest.m3u8
+								https://cdn.jwplayer.com/manifests/h2B3X002.m3u8
 							</MediaFile>							
 						</MediaFiles>
 					 </Linear>
