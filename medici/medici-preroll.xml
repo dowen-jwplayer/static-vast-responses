@@ -1,7 +1,6 @@
 <VAST version="2.0">
-    
-    
-    
+
+
     <Ad id="jw-preroll-1" sequence="1">
         <InLine>
             <AdSystem>Static VAST</AdSystem>
@@ -21,8 +20,8 @@
             </Creatives>
         </InLine>
     </Ad>
-    
-    
-    
-    
+
+
+
+
 </VAST>
