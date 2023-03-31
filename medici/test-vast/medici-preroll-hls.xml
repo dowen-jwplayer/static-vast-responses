@@ -1,0 +1,21 @@
+<VAST version="2.0">
+    <Ad id="jw-preroll-1" sequence="1">
+        <InLine>
+            <AdSystem>Static VAST</AdSystem>
+            <AdTitle>Medici preroll</AdTitle>
+            <Impression></Impression>
+            <Creatives>
+                <Creative id="jw-preroll-1" sequence="1" adId="jw-preroll-1">
+                    <Linear>
+                        <Duration></Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="application/x-mpegURL" scalable="true" maintainAspectRatio="true">
+                                https://sdn-global-streaming-cache-3qsdn-medici.akamaized.net/66103/files/23/03/10/7483383/66103-Fwq9C8PzRQ4rkZj.ism/manifest.m3u8
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
