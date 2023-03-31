@@ -10,7 +10,7 @@
                         <Duration></Duration>
                         <MediaFiles>
                             <MediaFile delivery="progressive" type="application/x-mpegURL" scalable="true" maintainAspectRatio="true">
-                                https://sdn-global-streaming-cache-3qsdn-medici.akamaized.net/66103/files/23/03/10/7483383/66103-Fwq9C8PzRQ4rkZj.ism/manifest.m3u8
+                                https://github.com/dowen-jwplayer/static-vast-responses/blob/main/medici/test-vast/medici-preroll-mp4-dylan.mp4?raw=true
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
