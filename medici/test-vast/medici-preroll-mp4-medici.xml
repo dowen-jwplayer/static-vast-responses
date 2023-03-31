@@ -10,7 +10,7 @@
                         <Duration></Duration>
                         <MediaFiles>
                             <MediaFile delivery="progressive" type="application/x-mpegURL" scalable="true" maintainAspectRatio="true">
-                                https://github.com/dowen-jwplayer/static-vast-responses/blob/main/medici/test-vast/medici-preroll-mp4-medici.mp4?raw=true
+                                https://github.com/dowen-jwplayer/static-vast-responses/blob/main/medici/medici-preroll-bumper.mp4?raw=true
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
