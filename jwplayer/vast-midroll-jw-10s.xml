@@ -2,10 +2,10 @@
 	<Ad id="jw-midroll-1">
 		<InLine>
 			<AdSystem>Static VAST</AdSystem>
-			<AdTitle>Preroll</AdTitle>
+			<AdTitle>Midroll</AdTitle>
 			<Impression></Impression>
 			<Creatives>
-				<Creative id="jw-midroll-1" sequence="1" adId="jw-preroll-1">
+				<Creative id="jw-midroll-1" sequence="1" adId="jw-midroll-1">
 					<Linear>
 						<Duration>00:00:10</Duration>
 						<MediaFiles>
