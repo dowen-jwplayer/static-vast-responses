@@ -5,7 +5,7 @@
 			<AdTitle>Postroll</AdTitle>
 			<Impression></Impression>
 			<Creatives>
-				<Creative id="jw-postroll-1" sequence="1" adId="jw-preroll-1">
+				<Creative id="jw-postroll-1" sequence="1" adId="jw-postroll-1">
 					<Linear>
 						<Duration>00:00:10</Duration>
 						<MediaFiles>
